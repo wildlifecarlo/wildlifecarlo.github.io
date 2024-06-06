@@ -56,6 +56,8 @@ Under the joint research leadership of Dr. Jeffery Kimmons, classmate Hunter Spr
 ### Curriculum Vitae (CV)
 
 #### Education
+* **Pennsylvania State University (2023-Present)
+  * M.S. Ecology
 * **Park University** (2018-2022)
   * B.S. Biology
     * Minor in Geographic Information Systems
