@@ -1,4 +1,4 @@
-## Hello, Nime to meet you
+## Hello, Nice to meet you
 I'm Di'Carlo Jackson Jr., a passionate and driven student deeply fascinated by wildlife ecology. With an insatiable curiosity about our planet's diverse ecosystems and the complex interactions within them, I'm dedicated to enhancing our understanding of the natural world.
 
 Welcome to my website, where I aim to offer you a glimpse into my life and the incredible experiences I've had. Here, you'll find a comprehensive collection of information about me, covering almost everything you need to know.
