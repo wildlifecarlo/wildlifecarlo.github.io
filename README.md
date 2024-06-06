@@ -1,4 +1,4 @@
-# wildlifecarlo.github.io
+# Di'Carlo Jackson Jr
 A driven and passionate student with a profound interest in wildlife ecology. Fueled by an insatiable curiosity about our planet and its intricate web of life, I aspire to contribute to our understanding of Earth's ecosystems and the interplay between organisms. Eager to expand my knowledge and make a meaningful impact. I'm thrilled to be apart of Penn State University's esteemed Ecology Master's program, where I am actively pursuing knowledge-sharing opportunities to benefit the global community.
 ### About Me
 #### Hello
