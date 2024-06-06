@@ -55,11 +55,11 @@ Parkville, Missouri
 
 ### CV
 #### Education
-Park University								2018-2022
-B.S. Biology	
-- Minor in Geographic Information Systems
-- Minor in Chemistry		
-- Minor in Natural Science						
+Park University	2018-2022
+- B.S. Biology
+  - Minor in Geographic Information Systems
+  - Minor in Chemistry
+  - Minor in Natural Science						
 
 #### Research Experience
 ##### Park University Undergraduate Research					
@@ -71,10 +71,10 @@ Under the supervision of Dr. Jeanine Refsnider I conducted research on the spati
 
 ##### Field Technician at Shenandoah National Park, VA
 Summer 2023
-	As a field research assistant in Shenandoah National Park, I participated in studying the endangered Shenandoah Salamander (Plethodon shenandoah). This role entailed navigating challenging mountain terrain over multiple days, braving various weather conditions, and reaching checkpoints to locate the Shenandoah salamander. Additionally, I collected and analyzed data related to their physical characteristics and gender.
+As a field research assistant in Shenandoah National Park, I participated in studying the endangered Shenandoah Salamander (Plethodon shenandoah). This role entailed navigating challenging mountain terrain over multiple days, braving various weather conditions, and reaching checkpoints to locate the Shenandoah salamander. Additionally, I collected and analyzed data related to their physical characteristics and gender.
 
 ##### M.S. Graduate Student Research - Currently
-	I am currently immersed in researching the life history evolution of five reptile species on the Channel Islands of California. My focus involves investigating differences in key traits such as clutch size, egg size, and the proportion of gravid individuals between mainland and island populations, shedding light on the life-history consequences associated with island dwarfism. I am an active member of the Shared Molecular mechanisms Across Life history traits (SMAL) project, a collaborative effort exploring shared molecular mechanisms influencing various life history traits. Specifically, I am examining the utilization of field ultrasounds to observe and analyze reproductive variables in insular dwarf reptiles on the Channel Islands, contributing to a comprehensive understanding of evolutionary dynamics in island ecosystems.
+I am currently immersed in researching the life history evolution of five reptile species on the Channel Islands of California. My focus involves investigating differences in key traits such as clutch size, egg size, and the proportion of gravid individuals between mainland and island populations, shedding light on the life-history consequences associated with island dwarfism. I am an active member of the Shared Molecular mechanisms Across Life history traits (SMAL) project, a collaborative effort exploring shared molecular mechanisms influencing various life history traits. Specifically, I am examining the utilization of field ultrasounds to observe and analyze reproductive variables in insular dwarf reptiles on the Channel Islands, contributing to a comprehensive understanding of evolutionary dynamics in island ecosystems.
 
 
 ##### Research - Papers and Posters
@@ -120,10 +120,10 @@ Research and Mentoring – Addressing Environmental Challenges and
 Proposing Sustainable Solutions at the Lake Erie Land-Lake Interface
 
 ###### Mondays with McDaniels LLC							2022
-	A community-based instruction to help adults with intellectual/developmental delays improve independent living skills.
+A community-based instruction to help adults with intellectual/developmental delays improve independent living skills.
 
 ###### Parkville Nature Sanctuary Ghost Stories						2022
-	A 20+ year community halloween event hosted in Parkville’s Nature Sanctuary. The event includes the passing out of candy, smores, live music, and a spooky trail for visitors to enjoy.
+A 20+ year community halloween event hosted in Parkville’s Nature Sanctuary. The event includes the passing out of candy, smores, live music, and a spooky trail for visitors to enjoy.
 	
 ###### Wilken’s STEAM Academy at Hillcrest						2023
 A public magnet school located in Belton, MO. I spoke with student’s about my research experience and the different aspects of science included in the research process.
@@ -134,22 +134,22 @@ ArcMap - Advanced
 Microsoft Excel - Advanced
 R Programming - Beginner 
 ##### Relevant Coursework
-Zoology								            	2018
-Organic Chemistry I & II					 2020-2021
-Concepts of Physics I & II				 2020-2021
-Introductory Ecology and Evolution	 2020
-GIS I & 2									         2020-2021
-Cartography									         2020
-Genetics									           2021
-Animal Physiology								     2021
-Cell Biology									       2022
-Remote Sensing 						 		       2022
-Physical Geology                     2022
-Biochemistry                         2022
-Advanced GIS and Remote Sensing      2023
-Advances in Ecology                  2023
-Design of Ecological Studies         2023
-Linear Regression Methods            2024
+- Zoology	2018
+- Organic Chemistry I & II 2020-2021
+- Concepts of Physics I & II 2020-2021
+- Introductory Ecology and Evolution	 2020
+- GIS I & 2 2020-2021
+- Cartography 2020
+- Genetics 2021
+- Animal Physiology 2021
+- Cell Biology 2022
+- Remote Sensing 2022
+- Physical Geology  2022
+- Biochemistry 2022
+- Advanced GIS and Remote Sensing 2023
+- Advances in Ecology 2023
+- Design of Ecological Studies 2023
+- Linear Regression Methods 2024
 
 ### Photos
 
