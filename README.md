@@ -1,3 +1,87 @@
+mkdir _posts _layouts _includes assets assets/css
+touch _config.yml _posts/2024-06-07-welcome-to-my-website.md _layouts/default.html _includes/header.html _includes/footer.html assets/css/style.css index.md about.md
+
+title: "Di'Carlo Jackson Jr.'s Research"
+description: "Sharing insights and information about my research."
+theme: minima
+
+---
+layout: post
+title:  "Welcome to My Website"
+date:   2024-06-07 12:00:00 -0000
+categories: update
+---
+
+This is my first post on my professional-personal website. Here, I will share information about my research, projects, and updates.
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ site.title }}</title>
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+</head>
+<body>
+  {% include header.html %}
+  <main>
+    {{ content }}
+  </main>
+  {% include footer.html %}
+</body>
+</html>
+
+<header>
+  <h1>{{ site.title }}</h1>
+  <nav>
+    <a href="{{ "/" | relative_url }}">Home</a>
+    <a href="{{ "/about" | relative_url }}">About</a>
+  </nav>
+</header>
+
+<footer>
+  <p>&copy; {{ site.time | date: "%Y" }} Di'Carlo Jackson Jr. All rights reserved.</p>
+</footer>
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background: #333;
+  color: #fff;
+  padding: 1em 0;
+  text-align: center;
+}
+
+header nav a {
+  color: #fff;
+  margin: 0 1em;
+  text-decoration: none;
+}
+
+main {
+  padding: 2em;
+}
+
+footer {
+  background: #333;
+  color: #fff;
+  text-align: center;
+  padding: 1em 0;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+}
+
+---
+layout: default
+title: Home
+---
+
 ## Hello, Nice to Meet You!
 
 I'm Di'Carlo Jackson Jr., a passionate and driven student deeply fascinated by wildlife ecology. With an insatiable curiosity about our planet's diverse ecosystems and the complex interactions within them, I'm dedicated to enhancing our understanding of the natural world.
@@ -6,9 +90,14 @@ Welcome to my website! Here, you'll get a glimpse into my life and the incredibl
 
 As a member of Penn State University's esteemed Ecology Master's program, I'm excited to be part of a community that values knowledge-sharing and global impact. I'm eager to expand my expertise and contribute to meaningful research that benefits both our environment and society. Join me on this journey to uncover the wonders of our planet and work towards a sustainable future!
 
-### About Me
+---
+layout: default
+title: About
+---
 
-#### My Story
+## About Me
+
+### My Story
 
 Coming from Kansas City, KS, I have embraced the urban lifestyle throughout my upbringing. However, my childhood was a bit different from most kids. Toys and imagination didn't captivate me; instead, I found solace in exploration. Days were spent observing the intriguing world of insects in my yard, marveling at their interactions and movements. Watching birds frolic in the birdbath and squirrels darting through the yard became my enchanting pastime, mesmerizing me for hours.
 
@@ -152,3 +241,7 @@ Under the joint research leadership of Dr. Jeffery Kimmons, classmate Hunter Spr
 * Advances in Ecology (2023)
 * Design of Ecological Studies (2023)
 * Linear Regression Methods (2024)
+
+git add .
+
+git commit -m "Initial commit"
