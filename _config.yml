@@ -23,7 +23,7 @@ repository               : "widlifecarlo/wildlifecarlo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ProfilePic.jpg"
   name             : "Di'Carlo Jackson Jr"
   pronouns         : "he/him"  
   bio              : "My professional webpage"
