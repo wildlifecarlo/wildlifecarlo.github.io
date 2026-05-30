@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "ESA Conference 2026"
+excerpt: "I presented my first poster talk on my M.S. research project  1<br/><img src='/images/IMG_0682.jpeg'>"
 collection: portfolio
 ---
 
