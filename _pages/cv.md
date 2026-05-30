@@ -11,35 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Ecology, Penn State University, 2030 (expected)
+* M.S. in Ecology, Penn State University, 2026 
+* B.S. in Biology, Park University, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Aug 2023 - Present: Graduate Research and Teaching Assistant
+  * Penn State University
+  * Supervisor: Dr. David Miller
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Aug 2025 - Present: Part-Time Access and Equity Graduate Program Assistant
+  * Penn State College of Agricultural Sciences
+  * Duties included: Provided approximately 4 hours per week of academic assistance to undergraduate students and 6 hours per week assistance the Office of Access and Equity with various initiatives.
+  * Supervisor: Dr. Laura Leites
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Dec 2022 - May 2023: Onsite Biomedical Technician I
+  * Infusystem Inc
+  * Duties included: Provide on-site maintenance and repair of medical equipment—primarily infusion pumps and related devices—at healthcare facilities. Perform preventive maintenance, troubleshooting, and repairs to ensure safe, efficient operation for patient care. Maintain detailed service records, manage equipment inventory, and ensure compliance with safety standards. Communicate effectively with healthcare staff and the InfuSystem team to coordinate service and resolve equipment issues promptly.
+ 
+*  Summer 2022: Research Experience for Undergraduates
+  * University of Toledo
+  * Supervisor: Dr. Jeanine Refsnider-Streby
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R
+* ArcGIS
+* ArcMap
+* Microsoft Excel
+* Scientific writing 
+* Project management 
+* Field research logistics 
+* Leadership & collaboration 
 
 Publications
 ======
@@ -59,6 +63,22 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Organizations and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* Access & Equity Chair - Ecosystem Science & Management Department, Penn State (2025-2026)
+* Access, Belonging & Community Committee Representative - Penn State Ecology Program (2025-2026)
+* Vice President of Student Engagement, Park Student Activities Board (2022) 
+* Vice President, Park University Biology Club (2022) 
+* Member, Park University Chemistry Club (2022–2023) 
+* Student-Athlete, Park University Men’s Basketball (2018–2022) 
+* 2× AMC Academic All-Conference 
+* Member, National Society of Leadership and Success (2021–2022)
+
+Community Engament
+======
+* REU Poster Gala, NSF Lake Erie Center (2022) 
+* Wilken’s STEAM Academy at Hillcrest – guest speaker on scientific research (2023)
+* Parkville Nature Sanctuary Ghost Stories – community outreach event (2022)
+* Mondays with McDaniels LLC – community instruction for adults with developmental disabilities (2022) 
+ 
+
