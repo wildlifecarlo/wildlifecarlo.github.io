@@ -4,7 +4,7 @@ lake and tributary habitat by female northern map turtles
 (Graptemys geographica)"
 collection: publications
 category: manuscripts
-permalink: [ARTICLE IN PRESS](https://www.sciencedirect.com/science/article/pii/S0380133026001760)
+permalink:https://www.sciencedirect.com/science/article/pii/S0380133026001760
 excerpt: 'This paper is about the spatial ecology of northern map turtles in Lake Erie'
 date: 2026-08-06
 venue: 'Journal of Great Lakes Research'
