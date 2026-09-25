@@ -9,7 +9,7 @@ excerpt: 'This paper is about the spatial ecology of northern map turtles in Lak
 date: 2026-08-06
 venue: 'Journal of Great Lakes Research'
 slidesurl: #'https://academicpages.github.io/files/slides1.pdf'
-paperurl: #'https://academicpages.github.io/files/paper1.pdf'
+paperurl: #'https://academicpages.github.io/files/paper1.pdf](https://www.sciencedirect.com/science/article/pii/S0380133026001760'
 bibtexurl: #'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'Jackson, D & Refsnider, J. M. (2026). Acoustic and satellite telemetry reveal extensive distances traveled in both lake and tributary habitat by female northern map turtles (Graptemys geographica). Journal of Great Lakes Research, 102916.'
 ---
